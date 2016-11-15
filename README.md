@@ -99,6 +99,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     - [Twitter](#twitter)
     - [知名网站](#websites)
     - [博客](blogs)
+    - [Thushear收藏的硬货](干货) 
 
 
 <h2 id="ancients">古董级工具</h2>
@@ -661,3 +662,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
 * [OnJava](http://hao.jobbole.com/onjava/)：O'Reilly Java包含最新的Java技术资讯，优质代码，完全的实例和详解。[官网](http://www.onjava.com/)
+
+<h3 id="websites">Thushear收藏的硬货</h3>
+Doug Lea的官网
+http://gee.cs.oswego.edu/
+
+
